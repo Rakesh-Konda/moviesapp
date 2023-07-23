@@ -1,0 +1,38 @@
+.Header {
+  background-color: #303030;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  height: 60px;
+}
+.logo {
+  margin: 20px;
+  height: 20px;
+}
+.pp {
+  color: white;
+  margin: 20px;
+}
+.nav {
+  display: flex;
+}
+.hlo {
+  display: flex;
+  justify-content: space-around;
+}
+.ser {
+  color: white;
+  background-color: transparent;
+  border: 0px solid transparent;
+  margin-top: 13px;
+}
+.profile {
+  width: 30px;
+  height: 30px;
+  margin-top: 13px;
+  margin-left: 20px;
+}
+.s {
+  margin-bottom: 2px;
+}
+.ui {
+  display: none;
+}

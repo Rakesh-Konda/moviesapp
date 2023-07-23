@@ -1,0 +1,40 @@
+.av {
+  background-color: white;
+  height: 400px;
+
+  margin-top: 0px;
+}
+.mem {
+  color: gray;
+  margin-right: 10px;
+}
+.j {
+  display: flex;
+  margin-left: 50px;
+}
+.hd {
+  border: 1px solid black;
+  margin-left: 10px;
+}
+.ps {
+  margin-left: 10px;
+}
+.hr {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.acc {
+  margin-left: 50px;
+}
+.lo {
+  background-color: red;
+  color: white;
+  height: 26px;
+  width: 60px;
+  border: 1px solid transparent;
+}
+.lob {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}

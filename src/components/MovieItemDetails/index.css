@@ -1,0 +1,44 @@
+.pocon {
+  height: 200px;
+}
+.image {
+  width: 1400px;
+  height: 300px;
+  background-size: cover;
+}
+.bb {
+  margin-top: 30px;
+}
+.pi {
+  color: white;
+  margin: 10px;
+}
+.da {
+  display: flex;
+}
+.cer {
+  border: 1px solid white;
+}
+.down {
+  color: rgb(139, 138, 138);
+  margin-left: 50px;
+}
+.ull {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+}
+.o {
+  margin-left: 50px;
+}
+.re {
+  display: flex;
+  flex-direction: column;
+}
+.ddd {
+  display: flex;
+  justify-content: space-around;
+}
+.oi {
+  margin-left: 100px;
+}

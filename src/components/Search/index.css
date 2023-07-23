@@ -1,0 +1,13 @@
+.inputs {
+  height: 20px;
+  margin: 20px;
+  background-color: transparent;
+  color: white;
+}
+.dd {
+  display: flex;
+}
+.cv {
+  margin-bottom: 5px;
+  margin-left: 0px;
+}

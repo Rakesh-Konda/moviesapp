@@ -1,0 +1,16 @@
+.Home {
+  background-color: #181818;
+  height: 800vh;
+}
+
+.orig {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.z {
+  font-size: 20px;
+}

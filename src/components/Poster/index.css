@@ -1,0 +1,72 @@
+.poster {
+  width: 1400px;
+  height: 250px;
+  background-size: cover;
+}
+@media (max-width: 768px) {
+  .poster {
+    width: 500px;
+    height: 250px;
+  }
+  .names {
+    margin-bottom: 60px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  .play {
+    margin-bottom: 50px;
+  }
+}
+.ht {
+  color: white;
+}
+.names {
+  margin-bottom: 50px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin-left: 100px;
+}
+.ran {
+  position: relative;
+  display: inline-block;
+  width: 300px;
+}
+.b {
+  width: 400px;
+  font-size: 12px;
+}
+.play {
+  background-color: white;
+  color: black;
+  border: 0px solid transparent;
+  border-radius: 10px;
+  width: 50px;
+}
+.fp {
+  color: white;
+}
+.butf {
+  background-color: white;
+  color: black;
+  width: 80px;
+  height: 20px;
+  border: 0px solid transparent;
+  border-radius: 5px;
+}
+.fail-view {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,25 @@
+.h11 {
+  color: white;
+}
+
+.not {
+  position: relative;
+}
+
+.hl {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: white;
+}
+
+.gth {
+  background-color: white;
+  color: black;
+  height: 26px;
+  width: 120px;
+  border: 0px solid transparent;
+  border-radius: 10px;
+}

@@ -1,0 +1,60 @@
+.bg-image {
+  background-image: url('https://res.cloudinary.com/dl5aayinl/image/upload/v1689834243/netfilx_1_dbsuhl.png');
+  height: 100vh;
+  background-size: cover;
+}
+.h1 {
+  width: 180px;
+  height: 52px;
+  top: 48px;
+  left: 165px;
+  margin: 20px;
+}
+.p {
+  color: white;
+  font-size: 20px;
+}
+.login-card {
+  background-color: #202020;
+  box-shadow: rgb(32, 32, 32);
+  width: 400px;
+  height: 400px;
+  top: 292px;
+  left: 492px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.l {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.lab {
+  color: white;
+  margin-bottom: 10px;
+}
+.inpfield {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+.inp {
+  width: 300px;
+  height: 30px;
+}
+.lbut {
+  background-color: red;
+  color: white;
+  height: 30px;
+  width: 300px;
+  margin-bottom: 20px;
+  border: 0pc solid transparent;
+  border-radius: 10px;
+}
+.em {
+  color: red;
+}
